@@ -1,0 +1,15 @@
+/* body 
+body{
+    background: red;
+}
+
+ selector class */
+
+.container{
+    width: 80%;
+    border: 2px solid red;
+    padding: 30px;
+    font-size: 20px;
+    text-align: justify;
+    margin: auto;
+}
